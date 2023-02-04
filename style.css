@@ -1,0 +1,197 @@
+.group6 {
+    width: 450px;
+    height: 697px;
+    position: absolute;
+    background-color: white;
+    border-radius: 20px;
+    box-shadow: 0px 40px 40px -20px rgba(13, 48, 189, 0.151826);
+    
+    transition: 2s;
+    top: 400px;
+    left: 0px;
+    right: 0px;
+    bottom: 100px;
+    margin: auto;
+
+
+}
+
+.group6:hover {
+    box-shadow: 0  0 120px #9c9c9c;
+    transform: scale(1.1);
+}
+
+.illustration {
+    width: 450px;
+    height: 220px;
+    top: 0px;
+    position: absolute;
+    left: 0px;
+    border-radius: 20px 20px 0px 0px;
+}
+
+.ordertext {
+    position: absolute;
+    font-family: 'Red Hat Display';
+    font-weight: 900;
+    font-size: 28px;
+    color: #1F2E55;
+    text-align: center;
+    height: 37px;
+    left: 10.67%;
+    right: 10.67%;
+    top: calc(50% - 37px/2 - 65px);
+    width: 354px;
+    line-height: 37px;
+
+}
+
+.text {
+    height: 78px;
+    width: 354px;
+    left: 48px;
+    top: 319px;
+    border-radius: nullpx;
+    position: absolute;
+    font-family: 'Red Hat Display';
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 26px;
+    text-align: center;
+    color: #717FA6;
+    font-style: normal;
+
+}
+
+.group4 {
+    position: absolute;
+    width: 354px;
+    height: 98px;
+    left: 48px;
+    top: 417px;
+    
+}
+
+.group3 {
+    width: 306px;
+    height: 48px;
+    top: 25px;
+    left: 24px;
+    position: absolute;
+    
+}
+
+.group2 {
+    position: absolute;
+    width: 48px;
+    height: 48px;
+    left: 0px;
+    top: 0px;
+    
+}
+
+.change {
+    position: absolute;
+    height: 19px;
+    left: 83.01%;
+    right: 0%;
+    top: calc(50% - 19px/2 + 0.5px);
+    font-family: 'Red Hat Display';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 19px;
+    text-decoration-line: underline;
+    color: #382AE1;
+    height: 19px;
+    width: 52px;
+    left: 254px;
+    top: 2.5px;
+    border-radius: nullpx;
+
+
+
+}
+
+button:hover {
+    background-color: #766CF1;}
+
+.change:hover, .cancel-order:hover {
+    color:#766CF1;
+}
+
+
+
+.group {
+    width: 92px;
+    height: 48px;
+    left:68px;
+    position: absolute;
+    top: 0%;
+    bottom: 0%;
+    
+
+
+}
+
+.annual-plan {
+    position: absolute;
+    height: 21px;
+    left: 0%;
+    right: -27.38%;
+    top: calc(50% - 21px/2 - 13.5px);
+
+    font-family: 'Red Hat Display';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 16px;
+    line-height: 21px;
+
+    color: #1F2E55;
+
+}
+
+.price {
+    position: absolute;
+    height: 21px;
+    left: 0%;
+    right: 0%;
+    top: calc(50% - 21px/2 + 13.5px);
+    
+    font-family: 'Red Hat Display';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 21px;
+    
+    color: #717FA6;
+}
+
+.button {
+    width: 354px;
+    height: 50px;
+    border-radius: 11px;
+    background:#382AE1;
+
+    font-family: 'Red Hat Display';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 15px;
+    color: white;
+    position: absolute;
+    text-align: center;
+    top: 140px;
+    border: none;
+}
+
+.cancel-order {
+    position: absolute;
+    top: 188px;
+    font-family: 'Red Hat Display';
+    font-size: 15px;
+    font-style: normal;
+    color: #717FA6;
+    font-weight: 900;
+    left: 130px;
+
+}
